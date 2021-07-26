@@ -1,0 +1,8 @@
+21:07:52.554 [main] DEBUG ab.poo - i am debuging
+21:07:52.561 [main] INFO  ab.poo - Obj is present
+21:07:52.561 [main] ERROR ab.poo - obj is not present
+21:07:52.562 [main] FATAL ab.poo - this is fatal
+21:12:26.509 [main] DEBUG ab.poo - i am debuging
+21:12:26.515 [main] INFO  ab.poo - Obj is present
+21:12:26.516 [main] ERROR ab.poo - obj is not present
+21:12:26.516 [main] FATAL ab.poo - this is fatal

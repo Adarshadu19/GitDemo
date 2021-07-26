@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-30T20:52:05 IST" name="Command line suite" finished-at="2021-06-30T20:52:05 IST" duration-ms="157">
+    <groups>
+    </groups>
+    <test started-at="2021-06-30T20:52:05 IST" name="Command line test" finished-at="2021-06-30T20:52:05 IST" duration-ms="157">
+      <class name="selenium.mavenjava.apiTest">
+        <test-method signature="abd()[pri:0, instance:selenium.mavenjava.apiTest@646007f4]" started-at="2021-06-30T20:52:05 IST" name="abd" finished-at="2021-06-30T20:52:05 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abd -->
+      </class> <!-- selenium.mavenjava.apiTest -->
+      <class name="selenium.mavenjava.selTest">
+        <test-method signature="adu()[pri:0, instance:selenium.mavenjava.selTest@df27fae]" started-at="2021-06-30T20:52:05 IST" name="adu" finished-at="2021-06-30T20:52:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adu -->
+        <test-method signature="du()[pri:0, instance:selenium.mavenjava.selTest@df27fae]" started-at="2021-06-30T20:52:05 IST" name="du" finished-at="2021-06-30T20:52:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- du -->
+      </class> <!-- selenium.mavenjava.selTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
